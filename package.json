@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "antigravity-auth": "^1.17.7",
-    "docker": "^1.0.0",
-    "git": "^0.1.5",
-    "opencode-antigravity-auth": "^1.6.0"
-  }
-}
